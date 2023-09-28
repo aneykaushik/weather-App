@@ -1,9 +1,9 @@
-//const url = 'https://weather-by-api-ninjas.p.rapidapi.com/v1/weather?city=delhi';
+//const url = 'https://weather-by-api-ninjas.p.rapidapi.com/v1/weather?city +';
 const options = {
 	method: 'GET',
 	headers: {
-		'X-RapidAPI-Key': '3c2e46039emshb0e5f94deb36434p1e45b6jsn907dbf8ac772',
-		'X-RapidAPI-Host': 'weather-by-api-ninjas.p.rapidapi.com'
+		'X-RapidAPI-Key': 'put your key'
+		'X-RapidAPI-Host': 'put your host'
 	}
 };
 
